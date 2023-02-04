@@ -1,10 +1,10 @@
-# python-csvtojson# CSV to JSON Converter
+# python-csvtojson Converter
 
 A simple Python script to convert a CSV file to JSON.
 
 ## Usage
 
-1. Save the script to a file, for example, `csv_to_json.py`.
+1. Save the script to a file, for example, `csvtojson.py`.
 2. Run the script in a terminal or command prompt, passing the path to the CSV file as an argument:
 
     ```
@@ -21,10 +21,3 @@ By default, the script assumes that the first row of the CSV file contains the h
 
 The script does not handle errors, such as missing or incorrectly formatted CSV files. It is intended for use with well-formed CSV files.
 
-## Contributing
-
-If you would like to contribute to the development of this script, please fork the repository and submit a pull request with your changes.
-
-## License
-
-This script is released under the MIT license. See [LICENSE](LICENSE) for details.
